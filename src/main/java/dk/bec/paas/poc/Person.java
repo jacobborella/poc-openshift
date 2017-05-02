@@ -1,3 +1,7 @@
+/*
+* Cool stuff!
+*/
+
 package dk.bec.paas.poc;
 
 import java.util.UUID;
